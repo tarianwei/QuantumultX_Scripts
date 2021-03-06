@@ -71,3 +71,7 @@
 10 10 * * * https://raw.githubusercontent.com/zhufengshaonian/QuantumultX_Scripts/main/jd/jd_xiaomofang.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 #步步宝
 0,30 0-23 * * * https://raw.githubusercontent.com/zhufengshaonian/QuantumultX_Scripts/main/bububao.js, tag=步步宝ziye版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true
+#微博超话
+5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js, tag=微博超话
+#云扫码
+15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码(feizao, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true
