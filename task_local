@@ -69,3 +69,5 @@
 11 0 * * 1 https://raw.githubusercontent.com/zhufengshaonian/QuantumultX_Scripts/main/jd/jd_delete_youhuijuan.js, tag=京东删除优惠券, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true
 30 10 * * * https://raw.githubusercontent.com/zhufengshaonian/QuantumultX_Scripts/main/jd/jd_shiyong.js, tag=京东试用(取关200个店铺再用), img-url=https://raw.githubusercontent.com/ZCY01/img/master/jdtryv1.png, enabled=true
 10 10 * * * https://raw.githubusercontent.com/zhufengshaonian/QuantumultX_Scripts/main/jd/jd_xiaomofang.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+#步步宝
+0,30 0-23 * * * https://raw.githubusercontent.com/zhufengshaonian/QuantumultX_Scripts/main/bububao.js, tag=步步宝ziye版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/115.png, enabled=true
